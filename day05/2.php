@@ -77,4 +77,4 @@ for($i = 0; $i < count($seeds); $i+=2) {
 }
 
 echo "lowest seed: $lowestSeed\n";
-echo "lowest location: $lowestLocation\n";
+echo "lowest location: $lowestLocation\n"; // 63179500 in 03:08h lol
